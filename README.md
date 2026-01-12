@@ -11,10 +11,8 @@
 - 🔭 Previously interned as an **IoT Application Developer** at _Asha Electronics_
 - 💡 Interested in **Scalable Full-Stack Systems**, **Data Engineering**, and **Applied Machine Learning**
 
-> 🔗 **Portfolio** 
-> A detailed overview of my projects, experience, and background  🌐 <a href="https://ajinkya-nagarkar.vercel.app/" target="_blank">
-<strong>Ajinkya Nagarkar</strong>
-</a>
+> 🔗 **Portfolio**
+> A detailed overview of my projects, experience, and background 🌐 <a href="https://ajinkya-nagarkar.vercel.app/" target="_blank"> > <strong>Ajinkya Nagarkar</strong> > </a>
 
 ---
 
@@ -60,12 +58,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Ajinkya-Nagarkar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajinkya-Nagarkar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
-<img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajinkya-Nagarkar&theme=tokyonight" />
-
-<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya-Nagarkar&layout=compact&theme=tokyonight" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya-Nagarkar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -73,7 +70,7 @@
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ajinkya-Nagarkar/Ajinkya-nagarkar/output/github-contribution-grid-snake.svg " />
+  <img src="https://raw.githubusercontent.com/Ajinkya-Nagarkar/Ajinkya-Nagarkar/output/github-contribution-grid-snake.svg " />
 </p>
 
 ---

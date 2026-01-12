@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ajinkya Nagarkar</h1>
-<h3 align="center">💻 MS in Computer Science @ USC | Full Stack Developer | Data Engineer | ML Enthusiast</h3>
-
+<div align="center">
+<h1>Hi 👋, I'm Ajinkya Nagarkar</h1>
+<h3>💻 MS in Computer Science @ USC | Full Stack Developer | Data Engineer | ML Enthusiast</h3>
+</div>
 ---
 
 ### 🧑‍💻 About Me
@@ -9,6 +10,17 @@
 - 💼 Former **Analyst** at [Capgemini Technology Services India](https://www.capgemini.com/)
 - 🔭 Previously interned as an **IoT Application Developer** at *Asha Electronics*
 - 💡 Interested in **Scalable Full-Stack Systems**, **Data Engineering**, and **Applied Machine Learning**
+
+👉 **To know more about me, click here:**  
+🌐 https://ajinkya-nagarkar.vercel.app/
+<p align = center>
+> 🔗 **Portfolio:**  
+> A detailed overview of my projects, experience, and background  
+> 🌐 <a href="https://ajinkya-nagarkar.vercel.app/" target="_blank">
+<strong>Ajinkya Nagarkar</strong>
+</a>
+</p>
+
 
 ---
 
@@ -31,6 +43,13 @@
 #### 🔹 Solar Power Plant Maintenance Prediction
 > Developed predictive models (**Random Forest**, **LGBM**, **Linear Regression**) to forecast maintenance needs and identify key environmental impact factors.
 
+#### 🔹 Local-LLM-Schema-Architect
+> Automated ER diagram generation using **local LLMs**, Streamlit, and Ollama.
+
+#### 🔹 Natural-Language-SQL-Pipeline
+> Text-to-SQL analytics system using **Kimi K2** and **DuckDB** for intuitive data querying.
+
+
 ---
 
 ### 🧾 Patents & Publications
@@ -40,16 +59,27 @@
 
 ---
 
-<!-- ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AjinkyaNagarkar&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjinkyaNagarkar&theme=tokyonight" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Ajinkya-Nagarkar&show_icons=true&theme=tokyonight" />
+
+<img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajinkya-Nagarkar&theme=tokyonight" />
+
+<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya-Nagarkar&layout=compact&theme=tokyonight" />
+
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaNagarkar&layout=compact&theme=tokyonight" />
+<!-- <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya-Nagarkar&layout=compact&theme=tokyonight" />
 </p> -->
+
+---
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ajinkya-Nagarkar Ajinkya-Nagarkar/output/github-contribution-grid-snake.svg " />
+</p>
 
 ---
 
@@ -65,6 +95,14 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="30px" alt="LinkedIn" /><img src="https://img.shields.io/badge/Ajinkya_Nagarkar-0077B5?"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://ajinkya-nagarkar.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="30px" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Ajinkya_Nagarkar-234?"/>
+  </a>
+</p>
+
 
 ---
 ### 🎯 What I'm Looking For

@@ -58,11 +58,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajinkya-Nagarkar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="./assets/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya-Nagarkar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---

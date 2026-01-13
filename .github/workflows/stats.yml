@@ -1,30 +1,37 @@
 name: Generate GitHub Stats
 
 on:
-    schedule:
-        - cron: "0 1 * * *"
-    workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-        steps:
-            - name: Checkout repo
-              uses: actions/checkout@v4
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-            - name: Create assets directory
-              run: mkdir -p assets
+      - name: Show working directory
+        run: |
+          pwd
+          ls -la
 
-            - name: Download GitHub stats
-              run: |
-                  curl -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=Ajinkya-Nagarkar&show_icons=true&theme=tokyonight&hide_border=true"
-                  curl -o assets/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya-Nagarkar&layout=compact&theme=tokyonight&hide_border=true"
+      - name: Create assets directory
+        run: mkdir -p assets
 
-            - name: Commit stats
-              run: |
-                  git config user.name github-actions
-                  git config user.email github-actions@github.com
-                  git add assets
-                  git commit -m "Update GitHub stats" || echo "No changes"
-                  git push
+      - name: Download GitHub stats (debug)
+        run: |
+          echo "Downloading stats..."
+          curl -L -v "https://github-readme-stats.vercel.app/api?username=Ajinkya-Nagarkar&show_icons=true" -o assets/stats.svg
+          curl -L -v "https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya-Nagarkar&layout=compact" -o assets/top-langs.svg
+          echo "Files after download:"
+          ls -la assets
+
+      - name: Commit stats
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git status
+          git add assets
+          git commit -m "Debug: add stats svgs" || echo "Nothing to commit"
+          git push

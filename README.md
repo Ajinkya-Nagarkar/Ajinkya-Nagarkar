@@ -86,7 +86,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/ajinkya-nagarkar-2063a2195" target="_blank">
+  <a href="www.linkedin.com/in/ajinkya-vivek-nagarkar-2063a2195" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30px" alt="LinkedIn" /><img src="https://img.shields.io/badge/Ajinkya_Nagarkar-0077B5?"/>
   </a>
 </p>
